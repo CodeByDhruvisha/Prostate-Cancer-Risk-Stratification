@@ -46,10 +46,10 @@ Prostate-Cancer-Risk-Stratification/
 │── 01_Data_Preprocessing.ipynb
 │── 02_Gene_Level_ML.ipynb
 │── 03_Pathway_Level_ML.ipynb
+│── DEGS.csv
+│── README.md 
 │── gene_expression_matrix.csv 
 │── labels_final.csv
-│── DEGS.csv
-│── README.md
 
 ---
 ## 🧠 Technologies Used
